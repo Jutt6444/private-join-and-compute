@@ -173,4 +173,4 @@ as-is without any guarantees or warranties, express or implied.
 ## Acknowledgements
 
 Thank you to Nick Angelou ([s0l0ist@](https://github.com/s0l0ist)) who's work
-provided the basis for the Bzlmod migration.
+provided the basis for the Bzlmod migratin.
